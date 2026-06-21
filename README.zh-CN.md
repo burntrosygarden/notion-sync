@@ -1,3 +1,5 @@
+[English](README.md) | **中文**
+
 # notion-sync
 
 本地 Markdown 文件与 Notion 页面之间的双向同步。设计为 AI agent skill，让 AI 助手（QoderWork、Claude Code、Codex 等）自动保持本地文档和 Notion 页面的一致性。

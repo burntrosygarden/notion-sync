@@ -1,3 +1,5 @@
+**English** | [中文](README.zh-CN.md)
+
 # notion-sync
 
 Bidirectional sync between local Markdown files and Notion pages. Designed as an agent skill so that AI assistants (QoderWork, Claude Code, Codex, etc.) automatically keep your local docs and Notion pages in sync.
